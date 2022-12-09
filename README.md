@@ -1,5 +1,5 @@
 # Test
-Test FOR AN INITIATIVE
+- Test FOR AN INITIATIVE
 Draw a timeline that showcase what you will build during the fellowship tenure
 Tech Stacks that you are into
 Why should we select you?
